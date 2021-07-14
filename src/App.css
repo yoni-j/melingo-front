@@ -13,6 +13,20 @@
   }
 }
 
+li {
+  list-style: none;
+}
+
+.form-control {
+  display: inline!important;
+  width:70%!important;
+  margin-right: 0.3em;
+}
+
+.title {
+  font-size: 1.3em;
+}
+
 .App-header {
   background-color: #282c34;
   min-height: 100vh;
